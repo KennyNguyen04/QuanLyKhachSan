@@ -16,5 +16,20 @@ namespace QLKS
         {
             InitializeComponent();
         }
+
+        private void label_MemberLogin_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2CustomCheckBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void SignUp_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
